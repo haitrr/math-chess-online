@@ -83,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -96,6 +97,66 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eight_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eight_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Five_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Five_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Four_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Four_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nine_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nine_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\One_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\One_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seven_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seven_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Six_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Six_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Three_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Three_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Two_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Two_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zero_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zero_Red.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

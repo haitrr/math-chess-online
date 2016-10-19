@@ -9,6 +9,8 @@ namespace MathChessOnline
     class Piece
     {
         public static int size;
+        protected int value;
+        protected Image image;
         public virtual void drawPiece(Graphics g)  //draw the piece
         {
             //for delivered class

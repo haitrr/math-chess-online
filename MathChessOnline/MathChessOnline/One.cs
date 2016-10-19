@@ -8,5 +8,9 @@ namespace MathChessOnline
 {
     class One:Piece
     {
+        public One()
+        {
+
+        }
     }
 }
